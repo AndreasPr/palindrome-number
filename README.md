@@ -1,3 +1,3 @@
 # Palindrome Number
 
-Implemented in Python
+Implementation in Python
